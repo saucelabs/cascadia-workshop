@@ -1,0 +1,16 @@
+* Introductions (10m)
+  * Introduce myself
+  * Give an overview of Web UI Automation
+* Give an outline of the differences between the UIAutomation test frameworks (30m)
+  * Cypress, TestCafe, Puppeteer/Playwright, Selenium
+  * Compare and contrast them all
+  * What are the benefits, tradeoffs, etc...
+  * Zoom in on Selenium vs. Cypress
+* Do a getting started on Cypress (20m)
+  * Walk through a basic tutorial
+  * Demonstrate parallelism
+  * Challenge users to just make a Cypress test on a website of their choice
+* Show how to run Cypress tests from testrunner toolkit (20m)
+  * 
+* Wire up Cypress tests in testrunner toolkit in CI (20m)
+* QA
